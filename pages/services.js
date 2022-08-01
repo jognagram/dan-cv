@@ -10,21 +10,20 @@ function services() {
             <div className="w-full my-40 h-auto flex-col justify-center items-center">
                 <p className="text-sm uppercase text-gray-400">My Skills</p>
                 <h1 className="text-indigo-900 text-6x1 font-bold text-center">
-                    My Expertise
+                    The technologies I use
                 </h1>
 
                 <div className="flex justify-items-start items-center mx-40 gap-10 mt-20">
 					<div className="flex  flex-col justify-center items-center">
 						{/* first block */}
 						<div className="flex justify-center items-center cursor-pointer">
-							<GiCardboardBox className="w-10 h-10 bg-yellow-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
+                        <GiCardboardBox className="w-10 h-10 bg-yellow-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
 							<h2 className="text-xl text-indigo-600 font-semibold">
-								Strategy & Direction
+								Flutter & Firebase
 							</h2>
 						</div>
 						<p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+                        FlutterFirebase is a set of Flutter plugins that enable Flutter apps to use Firebase services. 
 						</p>
 					</div>
 
@@ -33,12 +32,11 @@ function services() {
                         <div className="flex justify-center items-center cursor-pointer">
                         <HiColorSwatch className="w-10 h-10 bg-red-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
                         <h2 className="text-x1 text-indigo-600 font-semibold">
-                            Branding & Logo
+                            Javascript
                         </h2>
                         </div>
                         <p className="md:text-base text-gray-400 md:text-center sm:text-sm sm:text-left">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+                        JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
 						</p>
                     </div>
                 </div>
@@ -50,12 +48,12 @@ function services() {
                         <div className="flex justify-center items-center cursor-pointer">
 							<AiOutlineBlock className="w-10 h-10 bg-green-500 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
 							<h2 className="text-xl text-indigo-600 font-semibold ">
-								Motion & Animation
+								Python & Django
 							</h2>
 						</div>
 						<p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+                        Django is a free and open-source full-stack web application 
+                        framework based on Python.
 						</p>
                     </div>
 
@@ -64,12 +62,12 @@ function services() {
                         <div className="flex justify-center items-center cursor-pointer">
                         <MdDeveloperBoard className="w-10 h-10 bg-blue-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
                         <h2 className="text-xl text-indigo-600 font-semibold">
-                        Design & Development
+                            Html & Css
                         </h2>
                         </div>
                         <p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+                        HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of 
+                        the core technologies for building Web pages.
 						</p>
                     </div>
                 </div>

@@ -22,10 +22,11 @@ function Home() {
 							Hello, I am <span className="text-indigo-900">Jordan</span>
 						</h1>
 						<p className="text-left font-normal font mb-5 flex-wrap">
-							Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis
-							aperiam placeat molestiae atque tempore perspiciatis laboriosam
-							quasi pariatur, vitae sequi veritatis veniam rerum, quos
-							consectetur commodi rem totam voluptatum? Hic!
+                        Student in Master IT option filled with talent,
+                        curious, team spirit, enduring with an ability to
+                        adapt.
+                        I am able to create dynamic websites and
+                        mobile apps. Designer!
 						</p>
 						<a
 							href="#"
